@@ -1,0 +1,37 @@
+menambahkan class Pembayaran
+menambahkan class Layanan
+menambahkan code pada class layanan
+menambahkan code pada class pembayaran
+menambahkan code pada class layanan, inventory
+menambahkan method pada class Admin
+menambahkan code pada class InventoryHelpWedding dan Pemesanan
+mengganti nama kelas datalayanan menjadi layanan
+memperbaiki code pada kelas Pembayaran
+memperbaiki code pada kelas Pembayaran 2
+memperbaiki code pada class Admin
+memperbaiki code pada kelas Pemesanan
+memperbaiki code pada kelas Pemesanan 2
+memperbaiki code pada kelas pembayaran
+memperbaiki code pada class datalayanan
+memperbaiki code pada kelas pemesanan 
+memperbaiki code pada class datalayanan
+memperbaiki code pada class Admin
+memperbaiki code pada kelas pembayaran 4
+memperbaiki code pada kelas pemesanan
+memperbaiki error pada changelog
+menambahkan code pada kelas Pemesanan 3 dan InventoryHelpWedding
+memperbaiki method pada class Admin
+memperbaiki method pada kelas pembayaran dan inventori
+memperbaiki tampilan output riwayat pembayaran
+memperbaiki code pada kelas Pemesanan 
+memperbaiki code pada class datalayanan
+memperbaiki code pada kelas Pemesanan 
+memperbaiki code pada class Admin
+menambahkan code pada class InventoryHelpWedding
+memperbaiki code pada class InventoryHelpWedding
+memperbaiki code pada class pembayaran
+memperbaiki code pada class pembayaran
+memperbaiki code pada class datalayanan
+memperbaiki code pada class pembayaran
+memperbaiki code pada class InventoryHelpWedding
+memperbaiki code pada class pembayaran
