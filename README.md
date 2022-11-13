@@ -26,8 +26,10 @@ Aplikasi ini akan menyediakan 4 kategori yaitu :
 - Pelaminan dengan Full Bunga Plastik
 
 Untuk dapat berinteraksi dengan sistem, Admin harus melakukan login terlebih dahulu dengan menginput 
-username: admin
-password: login123
+
+- username: admin
+- password: login123
+ 
 Setelah melakukan login , admin dapat memilih menu yang ada pada sistem seperti :
 
 - Lihat Daftar Layanan
